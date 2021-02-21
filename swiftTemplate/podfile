@@ -1,5 +1,7 @@
 platform :ios, '9.0'
 use_frameworks!
 target 'swiftTemplate' do
-  pod 'HandyJSON'
+#  pod 'HandyJSON'
+#  pod 'Moya'
+#  pod 'SwiftyJSON'
 end
